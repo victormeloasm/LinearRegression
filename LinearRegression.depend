@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1691707877 source:c:\users\víctor melo\desktop\github\linearregression\linearregression\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
